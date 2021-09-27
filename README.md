@@ -4,6 +4,22 @@
 ### THE PASSIONATE PROBLEM SOLVER.
 Margus started with his first programming language in 2001 Spring and has been accumulating knowledge since. He loves efficient code and intelligent solutions.
 
+[![stackoverflow](https://stackexchange.com/users/flair/34563.png)](https://stackoverflow.com/cv/margusmartsepp)
+[![projecteuler](https://projecteuler.net/profile/margusmartsepp.png)](https://projecteuler.net/)
+[![codewars](https://www.codewars.com/users/margusmartsepp/badges/small)](https://www.codewars.com/users/margusmartsepp)
+
+### Certificates
+- THE OXFORD PRINCETON PROGRAMME LIMITED 
+  - [x] Oil Trading and Operations
+- Microsoft
+  - [x] 70-483 Programming in C#
+- PluralSight
+  - [x] C#: Expert - VERIFIED 1.13.2019 - 94th percentile
+- HackerRank
+  - [x] [Problem Solving (Basic) Certificate](https://www.hackerrank.com/certificates/7e5318a6fd54)
+  - [x] [C# (Basic) Certificate](https://www.hackerrank.com/certificates/8455af5cf52f)
+  - [x] [Java (Basic) Certificate](https://www.hackerrank.com/certificates/d6bff7e9e024)
+  - [x] [Python (Basic) Certificate](https://www.hackerrank.com/certificates/81022243befb)
 <!---
 - 👋 Hi, I’m @margusmartsepp
 - 👀 I’m interested in ...
