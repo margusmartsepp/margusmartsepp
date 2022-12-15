@@ -13,6 +13,8 @@ Margus started with his first programming language in 2001 Spring and has been a
   - [x] Oil Trading and Operations
 - Microsoft
   - [x] 70-483 Programming in C#
+- ISTQB
+  - [x]  ISTQB Certified Tester Foundation Level
 - PluralSight
   - [x] C#: Expert - VERIFIED 1.13.2019 - 94th percentile
 - HackerRank
@@ -20,6 +22,36 @@ Margus started with his first programming language in 2001 Spring and has been a
   - [x] [C# (Basic) Certificate](https://www.hackerrank.com/certificates/8455af5cf52f)
   - [x] [Java (Basic) Certificate](https://www.hackerrank.com/certificates/d6bff7e9e024)
   - [x] [Python (Basic) Certificate](https://www.hackerrank.com/certificates/81022243befb)
+- Linkedin
+  - [x] (top 5% of 832.9k people) .Net 
+  - [x] (top 15% of 3.0M people) Agile Methodologies
+  - [x] (top 15% of 230.4k people) Angular
+  - [x] (top 15% of 101.4k people) AWS Lambda
+  - [x] (top 5% of 1.0M people) C# 
+  - [x] (top 30% of 1.5M people) C++ 
+  - [x] (top 5% of 1.8M people) CSS 
+  - [x] (top 15% of 92.1k people) Eclipse 
+  - [x] (top 5% of 925.8k people) Front-End Development 
+  - [x] (top 5% of 1.3M people) Git 
+  - [x] (top 5% of 3.4M people) HTML
+  - [x] (top 15% of 2.3M people) JavaScript 
+  - [x] (top 5% of 253.4k people) jQuery 
+  - [x] (top 30% of 493.8k people) JSON
+  - [x] (top 5% of 1.2M people) Linux 
+  - [x] (top 15% of 739.5k people) Microsoft Azure
+  - [x] (top 5% of 26.3M people) Microsoft Excel
+  - [x] (top 5% of 9.5M people) Microsoft Powerpoint
+  - [x] (top 15% of 9.9M people) Microsoft Word
+  - [x] (top 5% of 1.7M people) MySql 
+  - [x] (top 5% of 404.8k people) node.js
+  - [x] (top 5% of 775.8k people) PHP 
+  - [x] (top 30% of 4.0M people) Python  
+  - [x] (top 5% of 785.7k people) R (programming language)
+  - [x] (top 15% of 612.3k people) Rest APIs 
+  - [x] (top 30% of 56.1k people) Scala 
+  - [x] (top 5% of 422.6k people) T-SQL 
+  - [x] (top 15% of 266.5k people) Visual Basic for Applications (VBA)
+  - [x] (top 5% of 242.3k people) XML 
 <!---
 - 👋 Hi, I’m @margusmartsepp
 - 👀 I’m interested in ...
