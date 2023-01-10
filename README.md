@@ -2,7 +2,9 @@
 
 ## Margus Martsepp [![linkedin](https://appicons.about.me/linkedin/32x32.png)](https://www.linkedin.com/in/margus-martsepp) [![facebook](https://appicons.about.me/facebook/32x32.png)](https://www.facebook.com/MARTSEPPMARGUS)
 ### THE PASSIONATE PROBLEM SOLVER.
-Margus started with his first programming language in 2001 Spring and has been accumulating knowledge since. He loves efficient code and intelligent solutions.
+Margus is a technology enthusiast with extensive software development and testing experience. His expertise includes .Net, C#, Java, Python, and Selenium, and he is an expert in functional and regression testing automation. He has developed efficient and dependable tools that have assisted his employers in automating the testing process and significantly reducing the time required for quality assurance.
+
+He is an experienced software engineer and automation tester with a solid software development and testing background. He received his higher education in informatics from TalTech (Tallinn University of Technology) and has been actively learning and advancing his experience since 2001. He has previously worked as a senior.Net developer for Uptime, AgileWorks, and Gunvor Services SA, where he is now a Senior QA automation engineer. Margus is a technology enthusiast with extensive software development and testing knowledge, including Net, C#, Java, Python, and Selenium expertise. He has developed dependable and efficient tools that have assisted his employers in automating the testing process and decreasing the time required for quality assurance. His abilities and experience make him an invaluable asset to any organization needing a capable leader.
 
 [![stackoverflow](https://stackexchange.com/users/flair/34563.png)](https://stackoverflow.com/cv/margusmartsepp)
 [![projecteuler](https://projecteuler.net/profile/margusmartsepp.png)](https://projecteuler.net/)
